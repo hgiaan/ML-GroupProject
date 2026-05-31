@@ -1,9 +1,3 @@
----
-title: Project Report
-tags: [Templates, Documentation]
-
----
-
 # Applying Machine Learning to Heart Disease Prediction
 Baseline, Improvement, and Error Analysis
 
