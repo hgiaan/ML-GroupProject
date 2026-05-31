@@ -56,7 +56,8 @@ ML-GroupProject/
 │   └── 1-llm_feature_engineering.ipynb  # LLM query + feature evaluation
 │   └── 2-Before_and_After_models_comparison.ipynb  # Performance comparison
 ├──6-Report & slides
-│   └── To be updated
+│   └── Project_Report.md
+│   └── Heart_Disease_Prediction_ML_Project.pdf
 ├── requirements.txt
 └── README.md
 ```
